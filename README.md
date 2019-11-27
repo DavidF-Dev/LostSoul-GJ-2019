@@ -8,10 +8,11 @@ We created a 2D platformer in **C# Unity** that involves guiding a lost soul thr
 
 It was a fun challenge for me to work with lights in 2D. We ran into many hurdles due to mixing 2D sprites with 3D models. However, in the end the game was completed successfully. We are all very proud of it.
 
+**Lost Soul Gameplay Video - [LINK](https://youtu.be/aNcu5BkrzKw)**<br>
+[![Alt text](https://img.youtube.com/vi/aNcu5BkrzKw/0.jpg)](https://www.youtube.com/watch?v=aNcu5BkrzKw)<br>
+**Screenshots**<br>
 <img src="ss1.png" width=50%/>
 <img src="ss2.png" width=50%/></br>
-**Lost Soul Gameplay Video - [LINK](https://youtu.be/aNcu5BkrzKw)**<br>
-[![Alt text](https://img.youtube.com/vi/aNcu5BkrzKw/0.jpg)](https://www.youtube.com/watch?v=aNcu5BkrzKw)
 
 ## Credits & Acknowledgements
 ### Design
