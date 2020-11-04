@@ -1,6 +1,8 @@
 # Lost Soul (Game Jam) (September 2019)
 Lost Soul is a Game Jam game created by myself and other AIE students.
 
+**Download on itch.io: [https://davidf-dev.itch.io/lost-soul](https://davidf-dev.itch.io/lost-soul)**
+
 The Game Jam was held at AIE Campus Canberra on September 2019. The theme of the jam was **Restoring Harmony**.<br>
 Our group consisted of five members: two artists, two designers and myself as the programmer. We were given one weekend to create a game that somewhat related to the theme.
 
@@ -16,13 +18,13 @@ It was a fun challenge for me to work with lights in 2D. We ran into many hurdle
 
 ## Credits & Acknowledgements
 ### Design
-- Matthew Eccles
+- Mateusz Solle
 - Rowan Brown
 ### Art
-- Sebastian Tuckwell
-- Samuel Donaldson
+- [Sebastian Tuckwell](https://www.artstation.com/mrmyr)
+- [Samuel Donaldson](https://awsam.artstation.com/)
 ### Programming
-- David Flintoft
+- [David Flintoft](https://www.davidfdev.com/)
 
 </br></br><br><br>
 <img src="aie_logo_clr.jpg" alt="Academy of Interactive Entertainment" width=250px height=250px/><br>
